@@ -1,0 +1,53 @@
+{
+  "build": "h6c2663c_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "lz4-c >=1.9.4,<1.10.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0",
+    "zlib >=1.2.12,<1.3.0a0",
+    "zstd >=1.5.2,<1.6.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\blosc-1.21.3-h6c2663c_0",
+  "files": [
+    "Library/bin/blosc.dll",
+    "Library/include/blosc-export.h",
+    "Library/include/blosc.h",
+    "Library/lib/blosc.lib",
+    "Library/lib/libblosc.lib",
+    "Library/lib/pkgconfig/blosc.pc",
+    ".nonadmin"
+  ],
+  "fn": "blosc-1.21.3-h6c2663c_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\blosc-1.21.3-h6c2663c_0",
+    "type": 1
+  },
+  "md5": "ca4efb4d157aa1ef9a6e901939aabc99",
+  "name": "blosc",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\blosc-1.21.3-h6c2663c_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/blosc.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_aft804j5_4/croot/blosc_1675247587926/_h_env",
+        "sha256": "6a4992bcadb55115d2e6a3af841544751c6a8a164d353657048eae80f30f0db6",
+        "sha256_in_prefix": "2f03a829596d8d53f1589044f718a3c87139b919924c955af4c89b5310a7f34a",
+        "size_in_bytes": 381
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::blosc==1.21.3=h6c2663c_0[md5=ca4efb4d157aa1ef9a6e901939aabc99]",
+  "sha256": "47d3335a879acd7c2c145d888829e20fbe373ae2777f1d38e4671283237c13c2",
+  "size": 88529,
+  "subdir": "win-64",
+  "timestamp": 1675247818000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/blosc-1.21.3-h6c2663c_0.conda",
+  "version": "1.21.3"
+}
